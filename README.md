@@ -1,6 +1,5 @@
-# Sanity + Next.js frontend example
+# Sanity + Next.js  example
 
-DEMO 👉 https://example-frontend-next-js.sanity-io.now.sh
 
 This is an example [Sanity](https://www.sanity.io/) powered frontend for the movie dataset using [Next.js](https://github.com/zeit/next.js/).
 
